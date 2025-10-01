@@ -7,16 +7,19 @@ body{
 #daDes_personals{
     background-color: #ff90e3d2;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-family: "Ultra", serif;
+    font-family: "Berkshire Swash", serif;
 }
 #daDes_acadèmiques{
     background-color: #ff90e3d2;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+     font-family: "Berkshire Swash", serif;
 }
-#h2{
+#exPeriència{
     background-color: #ff90e3d2;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Berkshire Swash", serif;
+}
+#texto{
+     font-family: "Funnel Sans", sans-serif;
+     text-align: center;
 }
